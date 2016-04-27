@@ -1,8 +1,8 @@
 {
     "context": "client",
-    "identifier": "com.uberent.pa.PAFX",
-    "display_name": "PA-FX",
-    "description": "Adding more effects to Buildings & Units",
+    "identifier": "com.uberent.pa.PAFX.classic",
+    "display_name": "PA-FX Classic",
+    "description": "Adding more effects to Buildings & Units. PA Classic only.",
     "author": "Alpha2546, Fr33Lancer, dom314",
     "version": "2.8",
     "signature": "not yet implemented",
